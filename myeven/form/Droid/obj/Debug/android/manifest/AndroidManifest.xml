@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.xamarin.sample.myeven">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="myeven" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="myeven.Droid" android:theme="@android:style/Theme.Holo.Light" android:name="md57ed1cd62d5a058176ced2aa05d69b538.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.WebAuthenticatorActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.sample.myeven.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.sample.myeven" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

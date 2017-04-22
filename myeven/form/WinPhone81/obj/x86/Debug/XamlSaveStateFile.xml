@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\microsoft.azure.mobile.client.3.1.0\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="d6a3dc69-a548-594a-6d32-f7c923aa64d9" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\microsoft.azure.mobile.client.3.1.0\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="693a2496-e5ff-28d0-d97e-ed800ecd2fed" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\xamarin.forms.2.3.4.231\lib\wpa81\xamarin.forms.core.dll" HashGuid="819b85c3-f6b1-e32c-2830-7206104fccc4" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\xamarin.forms.2.3.4.231\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\xamarin.forms.2.3.4.231\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="a861a807-c05d-0f84-2d21-93f0c7e733ae" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\xamarin.forms.2.3.4.231\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="4381a56f-41e7-7872-51a4-d23109c536cd" />
+    <ReferenceAssembly PathName="c:\users\hossam\desktop\myeven\form\packages\xamarin.forms.2.3.4.231\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="df61c4ca-47c1-60a5-1f80-e826bb936aad" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
